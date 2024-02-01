@@ -11,7 +11,7 @@ public class Rowmin {
 
                
             }
-            System.out.println(min);
+            System.out.println(min);  
         }
     }
 }
